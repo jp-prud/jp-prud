@@ -9,7 +9,7 @@
  
  - Apaixonado por Desenvolvimento Web, em especial por Front End 💙
   
- - Front-end Developer na Agência Modular 🚀
+ - Front-end Developer na Maeztra 🚀
 
 
 ## 🔮 Minha Stack
