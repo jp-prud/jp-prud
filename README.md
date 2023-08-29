@@ -1,47 +1,27 @@
-## Olá Dev! 👋
+## Olá! 🌟
 
-![mario coding](https://i.imgur.com/1ZvVkDc.gif)
+Como autodidata, tenho me aventurado por uma ampla diversidade de trilhas de aprendizado, com uma dedicação especial às tecnologias integrantes do ecossistema mobile. Isso abrange uma imersão profunda na literatura pertinente, uma análise minuciosa de documentações e a realização de projetos pessoais desafiadores. Meu foco se concentra especialmente no desenvolvimento utilizando React Native e Typescript.
 
-## 💡 Sobre mim :
- - Me chamo João Pedro Prudêncio e sou de Santa Catarina
+No decorrer de três anos como desenvolvedor, tive o privilégio de colaborar com mentes exponenciais, cuja influência desempenhou um papel fundamental em meu crescimento, tanto pessoal quanto profissional.
+
+Recentemente, em 2023, tomei a decisão de expandir ainda mais meus conhecimentos e habilidades. Iniciei meus estudos em React Native, uma plataforma que harmoniza meu interesse pelo desenvolvimento móvel com a capacidade de criar interfaces de usuário dinâmicas e eficazes. Essa nova incursão acrescenta um entusiasmante aspecto à minha jornada de aprendizado contínuo, enquanto continuo a explorar formas de contribuir para o dinâmico campo da tecnologia em constante evolução.
+
+## 🚀 Um pouco sobre mim
+ - **Posição atual**: Desenvolvedor Front-end na Maeztra.
+ - **Acadêmico**: Estou cursando o bacharelado em Ciência da Computação 🎓 (6/10 semesters completed). Meu trabalho de conclusão será a apresentação de uma solução que auxilie a leitura de artigos ciêntificos produzidos pelos alunos da instituição
+ - **Aprendizado**: Estudo direcionado para React Native, Typescript e Testes Automatizados.
+
+## 📖 Aprofundando  
+ - Sou brasileiro, natural de Curitiba - Paraná.
+ - Futebol é a minha principal atividade física.
+ - Este ano, minha lista de leitura inclui: A Única Coisa, Hábitos Atômicos, e Código Limpo. 
  
- - Curso Ciência da Computação na Universidade do Vale do Itajaí
- 
- - Apaixonado por Desenvolvimento Web, em especial por Front End 💙
-  
- - Front-end Developer na Maeztra 🚀
-
-
-## 🔮 Minha Stack
- Essas são algumas das tecnologias que uso no dia a dia
-
-<div align="center">
-  <img align="center" alt="Javascript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Typescript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Postgresql" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
- <img align="center" alt="NodeJS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Docker" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"> 
-</div>
-
-
-## 📈 Estatísticas
-
-<div style="display: inline-block"  align="center"><br>
- <a href="https://github.com/jp-prud">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jp-prud&show_icons=true&theme=react&include_all_commits=true&count_private=true" />
-    <img height="160em" src="https://github-readme-stats-rafazeero.vercel.app/api/top-langs/?username=jp-prud&layout=compact&langs_count=7&theme=react"/>
-  </>
-</div>
-
-
-## :speech_balloon: Vamos conversar ? 
+## 🌐 Conecte-se comigo 
 
 Você pode me encontrar através dos canais abaixo! 
 
-<div align="center">
+<div>
   <a href="https://www.linkedin.com/in/jpprud/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-    <a href="mailto:jpprud.contato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%230077B5?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://github.com/jp-prud/"><img src="https://img.shields.io/badge/-Github-%230077B5?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+  <a href="mailto:jpprud.contato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%230077B5?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
  
