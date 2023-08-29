@@ -8,7 +8,7 @@ Recentemente, em 2023, tomei a decisão de expandir ainda mais meus conhecimento
 
 ## 🚀 Um pouco sobre mim
  - **Posição atual**: Desenvolvedor Front-end na Maeztra.
- - **Acadêmico**: Estou cursando o bacharelado em Ciência da Computação 🎓 (6/10 semesters completed). Meu trabalho de conclusão será a apresentação de uma solução que auxilie a leitura de artigos ciêntificos produzidos pelos alunos da instituição
+ - **Acadêmico**: Estou cursando o bacharelado em Ciência da Computação 🎓 (6/10 semestres completos). Meu trabalho de conclusão será a apresentação de uma solução que auxilie a leitura de artigos ciêntificos produzidos pelos alunos da instituição
  - **Aprendizado**: Estudo direcionado para React Native, Typescript e Testes Automatizados.
 
 ## 📖 Aprofundando  
